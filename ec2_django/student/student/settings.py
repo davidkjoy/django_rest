@@ -25,7 +25,7 @@ SECRET_KEY = '5fk3l%g6+d0inkf2sei&qh*p!6bs5qa5nx&1-6q8a@&+zs2qet'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '52.0.241.235' ]
+ALLOWED_HOSTS = [ '52.0.241.235', 'djangoec2-78819058ff8f7dd1.elb.us-east-1.amazonaws.com' ]
 
 
 # Application definition
